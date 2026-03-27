@@ -1,0 +1,13 @@
+{
+    "python": "https://www.learnpython.org/",
+    "excel": "https://www.excel-easy.com/",
+    "sql": "https://www.w3schools.com/sql/",
+    "tableau": "https://www.tableau.com/learn/training",
+    "html": "https://www.w3schools.com/html/",
+    "css": "https://www.w3schools.com/css/",
+    "javascript": "https://www.w3schools.com/js/",
+    "react": "https://reactjs.org/tutorial/tutorial.html",
+    "scikit-learn": "https://scikit-learn.org/stable/tutorial/index.html",
+    "tensorflow": "https://www.tensorflow.org/tutorials",
+    "pandas": "https://pandas.pydata.org/docs/getting_started/index.html"
+}

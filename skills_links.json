@@ -1,0 +1,20 @@
+{
+    "Python": "https://www.learnpython.org/",
+    "SQL": "https://www.w3schools.com/sql/",
+    "Excel": "https://www.excel-easy.com/",
+    "Pandas": "https://pandas.pydata.org/docs/getting_started/index.html",
+    "Java": "https://www.learnjavaonline.org/",
+    "Git": "https://git-scm.com/docs/gittutorial",
+    "Algorithms": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+    "Machine Learning": "https://www.coursera.org/learn/machine-learning",
+    "TensorFlow": "https://www.tensorflow.org/tutorials",
+    "PyTorch": "https://pytorch.org/tutorials/",
+    "HTML": "https://www.w3schools.com/html/",
+    "CSS": "https://www.w3schools.com/css/",
+    "JavaScript": "https://www.javascript.com/",
+    "React": "https://reactjs.org/tutorial/tutorial.html",
+    "AWS": "https://aws.amazon.com/training/",
+    "Azure": "https://learn.microsoft.com/en-us/training/azure/",
+    "Docker": "https://docs.docker.com/get-started/",
+    "Kubernetes": "https://kubernetes.io/docs/tutorials/"
+}

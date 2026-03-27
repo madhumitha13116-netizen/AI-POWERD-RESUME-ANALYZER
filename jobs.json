@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Data Analyst",
+        "skills": ["Python","SQL","Excel","Pandas"],
+        "link": "https://www.naukri.com/data-analyst-jobs"
+    },
+    {
+        "title": "Software Developer",
+        "skills": ["Python","Java","Git","Algorithms"],
+        "link": "https://www.naukri.com/software-developer-jobs"
+    },
+    {
+        "title": "AI Engineer",
+        "skills": ["Python","Machine Learning","TensorFlow","PyTorch"],
+        "link": "https://www.naukri.com/ai-engineer-jobs"
+    },
+    {
+        "title": "Web Developer",
+        "skills": ["HTML","CSS","JavaScript","React"],
+        "link": "https://www.naukri.com/web-developer-jobs"
+    }
+]

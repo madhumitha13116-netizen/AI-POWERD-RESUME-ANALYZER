@@ -1,0 +1,35 @@
+{
+  "learning_links": {
+    "python": "https://www.w3schools.com/python/",
+    "machine learning": "https://www.coursera.org/learn/machine-learning",
+    "pandas": "https://www.geeksforgeeks.org/pandas-tutorial/",
+    "numpy": "https://www.geeksforgeeks.org/numpy-tutorial/",
+    "data analysis": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "html": "https://www.w3schools.com/html/",
+    "css": "https://www.w3schools.com/css/",
+    "javascript": "https://www.w3schools.com/js/",
+    "react": "https://react.dev/learn",
+    "node": "https://www.w3schools.com/nodejs/",
+    "java": "https://www.geeksforgeeks.org/java/",
+    "c++": "https://www.geeksforgeeks.org/c-plus-plus/",
+    "algorithms": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+    "data structures": "https://www.geeksforgeeks.org/data-structures/"
+  },
+  "job_links": {
+    "data_science": [
+      ["LinkedIn Jobs", "https://www.linkedin.com/jobs/data-scientist-jobs"],
+      ["Naukri", "https://www.naukri.com/data-scientist-jobs"],
+      ["Indeed", "https://in.indeed.com/Data-Scientist-jobs"]
+    ],
+    "web_dev": [
+      ["LinkedIn Jobs", "https://www.linkedin.com/jobs/web-developer-jobs"],
+      ["Naukri", "https://www.naukri.com/web-developer-jobs"],
+      ["Indeed", "https://in.indeed.com/Web-Developer-jobs"]
+    ],
+    "software": [
+      ["LinkedIn Jobs", "https://www.linkedin.com/jobs/software-engineer-jobs"],
+      ["Naukri", "https://www.naukri.com/software-engineer-jobs"],
+      ["Indeed", "https://in.indeed.com/Software-Engineer-jobs"]
+    ]
+  }
+}
